@@ -38,3 +38,10 @@ To run the project:
 ## Acknowledgments
 - This project was inspired by my studies in Math 620, where I was introduced to Singular Value Decomposition (SVD). The intrigue in understanding SVD's application in image classification motivated the development of this project.
 
+
+
+![Brain Tumor Classification using SVD](https://github.com/Padmanabh03/Brain-Tumor-Classificaton-Using-SVD/assets/71133619/37cece24-ed7c-41d7-86dd-7c58135ebdd3)
+
+
+
+
